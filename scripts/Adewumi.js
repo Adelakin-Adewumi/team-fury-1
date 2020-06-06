@@ -1,8 +1,8 @@
-const Name = 'Adewumi Adelakin'
-id = 'HNG-04266'
-email = 'adelakinadewumi@gmail.com'
-language = 'Javascript'
+var Name = 'Adewumi Adelakin'
+var id = 'HNG-04266'
+var email = 'adelakinadewumi@gmail.com'
+var language = 'Javascript'
 
-console.log ('Hello World, this is Adewumi Adelakin with HNG id 04266 and email address adelakinadewumi@gmail.com using Javascript for stage 2 task')
+console.log ('Hello World, this is Adewumi Adelakin with HNGi7 ID HNG-04266 using Javascript for stage 2 task')
 
 
